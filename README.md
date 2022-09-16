@@ -13,7 +13,7 @@
 
 ## Usage
 
-This code is for learning about singly linked lists using javascript.
+Algorithms for practicing Javascript and problem solving strategies.
 
 ## License
 
