@@ -12,3 +12,4 @@ var characterCount = function (str) {
   console.log(chars);
   return chars;
 };
+characterCount("bbcdsadsasef");
